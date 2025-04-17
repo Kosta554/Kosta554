@@ -6,7 +6,6 @@
 - 🎯 Goals: Becoming a Certified Ethical Hacker (CEH) 🏆
 - 💬 Let's chat about cybersecurity, ethical hacking, or tech in general. Who knows, future collaborations might be on the horizon! 🤝
 - 💼 Favorite Tools: Wireshark, Kali Linux, Burp Suite
-- 💻 Preferred OS: Linux (macOS 12 & Ubuntu Unity)
 - 🎶 Fun Fact: I can code better with a good soundtrack!🎧
 - 🌍 Travel Enthusiast: I love exploring new places between hacking sessions! ✈️
 
