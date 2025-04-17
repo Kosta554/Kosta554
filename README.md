@@ -10,7 +10,7 @@
 - 🌍 Travel Enthusiast: I love exploring new places between hacking sessions! ✈️
 
 
-- 📫 Connect with me on Discord: kosta554#6402 🚀
+
 - 📧 Email: kostapoumpouridis@gmail.com 📧
 <!---
 Kosta554/Kosta554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
